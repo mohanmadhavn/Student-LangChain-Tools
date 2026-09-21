@@ -60,7 +60,7 @@ The agent automatically selects the required tools and generates the final answe
 ## Project Files
 
 ```text
-student_agent.ipynb
+student_langchain_tools.ipynb
 students.db
 requirements.txt
 README.md
